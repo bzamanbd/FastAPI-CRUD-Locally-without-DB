@@ -16,7 +16,7 @@ This project is built using FastAPI, a modern, fast (high-performance), web fram
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/your-fastapi-project.git
+git clone https://github.com/bzamanbd/FastAPI-CRUD-Locally-without-DB
 
 2. Navigate to the project directory:
 cd MODELTOCRUD
