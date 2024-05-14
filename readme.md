@@ -31,21 +31,3 @@ uvicorn main:app --reload
 
 Replace `main` with the filename containing your FastAPI application instance if different.
 2. Open your web browser and go to `http://localhost:8000/docs` to view the interactive API documentation.
-
-## Project Structure
-.
-├── MODELTOCRUD
-│ ├── exceptions
-| | ├── init.py
-| | ├── example.py
-│ ├── models
-| | ├── init.py
-| | ├── example.py
-│ ├── routers
-| | ├── init.py
-| | ├── example.py
-│ ├── init.py
-│ |── main.py
-| ├── .gitignore
-| ├── README.md
-| └── requirements.txt
