@@ -21,11 +21,13 @@ git clone https://github.com/bzamanbd/FastAPI-CRUD-Locally-without-DB
 2. Navigate to the project directory:
 cd MODELTOCRUD
 
-3. Create and Activate Virtual Environment:
+3. Create Virtual Environment:
 python3 -m venv venv
+
+4. Activate Virtual Environment:
 source /venv/bin/activate
 
-4. Install dependencies:
+5. Install dependencies:
 pip install -r requirements.txt
 
 
